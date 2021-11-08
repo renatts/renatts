@@ -15,10 +15,13 @@
 <table style="width:100%" align="center">
     <tr>
         <td>
-            <img alt="Renat's Github Stats" src="https://github-readme-stats.vercel.app/api?username=renatts&&show_icons=true&title_color=ffffff&icon_color=4169e1&text_color=ffffff&bg_color=0D1117&border_color=0D1117"/>
+            <img src="https://github-readme-stats.vercel.app/api?username=renatts&&show_icons=true&title_color=ffffff&icon_color=4169e1&text_color=ffffff&bg_color=0D1117&border_color=0D1117"/>
         </td>
         <td>
             <img src="https://github-readme-stats.vercel.app/api/top-langs?username=renatts&show_icons=true&title_color=ffffff&icon_color=808080&text_color=808080&bg_color=0D1117&locale=en&layout=compact&langs_count=8&border_color=0D1117" alt="renat" />
         </td>
     </tr>
 </table>
+<p align="center">
+  <img src="https://github.com/renatts/renatts/blob/output/github-contribution-grid-snake.svg">
+</p>
