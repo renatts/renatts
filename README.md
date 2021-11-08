@@ -5,7 +5,7 @@
 </br>
 <h4 align="center">:sparkles: I'm Creative, Motivated and Ambitious person.</h4>
 <h4 align="center">:books: I’m currently learning DevOps tools, Linux, Terraform, Golang.</h4>
-<h4 align="center">:up: I am eager to be challenged in order to improve my skills.</h4>
+<h4 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> I am eager to be challenged in order to improve my skills.</h4>
 <h4 align="center">⚡ Also I'm a tech guy who loves sports, vehicles and good music.</h4>
 <h4 align="center">🏀 Team player.</h4>
 </br></br>
