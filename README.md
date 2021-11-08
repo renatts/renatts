@@ -1,6 +1,5 @@
 <h1 align="center">
   <img src="https://img.shields.io/badge/Hi there, I'm Renat-4169E1.svg?&logoColor=white" alt="hello" width="350"/>
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </h1>
 <h2 align="left">:computer: Software Developer from Israel</h2>
 <img style="border-radius: 0.25rem" align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="420"/>
