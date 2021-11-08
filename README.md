@@ -9,7 +9,7 @@
 <h4 align="left">:books: I’m currently learning DevOps tools, Linux, Terraform, Golang.</h4>
 <h4 align="left">:up: I am eager to be challenged in order to improve my skills.</h4>
 <h4 align="left">⚡ Also I'm a tech guy who loves sports, vehicles and good music.</h4>
-<h4 align="left">🏀 Team player.</h4></br></br></br>
+<h4 align="left">🏀 Team player.</h4></br></br>
 
 ---
 
