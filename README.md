@@ -1,13 +1,13 @@
-<h1 align="center">
+<p align="center">
   <img src="https://user-images.githubusercontent.com/83014719/140796715-45c43e2b-3af7-4d3e-bc5d-f495dcb0cf21.gif" alt="hello" width="350"/>
-</h1>
+</p>
 <h2 align="center">:computer:I'm Software Developer from Israel</h2>
 </br>
-<h4 align="center">:sparkles: I'm Creative, Motivated and Ambitious person.</h4>
-<h4 align="center">:books: I’m currently learning DevOps tools, Linux, Terraform, Golang.</h4>
-<h4 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> I am eager to be challenged in order to improve my skills.</h4>
-<h4 align="center">⚡ Also I'm a tech guy who loves sports, vehicles and good music.</h4>
-<h4 align="center">🏀 Team player.</h4>
+<h3 align="center">:sparkles: I'm Creative, Motivated and Ambitious person.</h3>
+<h3 align="center">:books: I’m currently learning DevOps tools, Linux, Terraform, Golang.</h3>
+<h3 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> I am eager to be challenged in order to improve my skills.</h3>
+<h3 align="center">⚡ Also I'm a tech guy who loves sports, vehicles and good music.</h3>
+<h3 align="center">🏀 Team player.</h3>
 </br></br>
 
 ---
