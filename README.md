@@ -6,7 +6,6 @@
 <img style="border-radius: 0.25rem" align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="420"/>
 </br>
 <h4 align="left">:sparkles: I'm Creative, Motivated and Ambitious person.</h4>
-<h4 align="left">:thumbsup: I have excellent Communication & Problem-solving skills.</h4>
 <h4 align="left">:books: I’m currently learning DevOps tools, Linux, Terraform, Golang.</h4>
 <h4 align="left">:up: I am eager to be challenged in order to improve my skills.</h4>
 <h4 align="left">⚡ Also I'm a tech guy who loves sports, vehicles and good music.</h4>
