@@ -4,12 +4,8 @@
 </p>
 <h2 align="center">:computer:I'm DevOps Engineer from Israel</h2>
 </br>
-<h3 align="center">:sparkles: I'm Creative, Motivated and Ambitious person.</h3>
 <h3 align="center">:books: I’m currently learning Maven, Linux, Terraform, Helm.</h3>
-<h3 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> I am eager to be
-    challenged in order to improve my skills.</h3>
 <h3 align="center">⚡ Also I'm a tech guy who loves sports, vehicles and good music.</h3>
-<h3 align="center">🏀 Team player.</h3>
 </br></br>
 
 ---
