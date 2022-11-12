@@ -1,7 +1,3 @@
-<p align="center">
-    <img src="https://user-images.githubusercontent.com/83014719/140796715-45c43e2b-3af7-4d3e-bc5d-f495dcb0cf21.gif"
-        alt="hello" width="350" />
-</p>
 <h2 align="center">:computer:I'm DevOps Engineer from Israel</h2>
 </br>
 <h3 align="center">:books: I’m currently learning Maven, Linux, Terraform, Helm.</h3>
