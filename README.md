@@ -53,4 +53,4 @@ Most of my work sits where infrastructure meets developer experience. On one sid
 
 ### Currently building
 
-A set of open, production-style reference projects for platform engineering: an internal developer portal, GitOps fleet management and cloud foundations. The pinned repositories below are the best starting point.
+A set of open, production-style reference projects for platform engineering: an internal developer portal, GitOps fleet management and cloud foundations.
